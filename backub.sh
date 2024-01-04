@@ -1,5 +1,6 @@
 #!/bin/bash
-current_date_time=$(date)
+/bin/echo "cron works" >> /home/kai/server/world/file
+
 git add .
-git commit -m "$current_date_time"
+git commit -m "hilfe warum klappt nicht"
 git push
