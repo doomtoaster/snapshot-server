@@ -2335,15 +2335,15 @@
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2024-01-07 21:41:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-01-07 21:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-01-07 21:41:25 +0000"
     },
     "done": true
   },
