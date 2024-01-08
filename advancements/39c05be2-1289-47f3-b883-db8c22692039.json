@@ -419,6 +419,7 @@
       "cooked_chicken": "2024-01-05 15:05:25 +0000",
       "cooked_mutton": "2024-01-05 15:21:19 +0000",
       "glow_berries": "2024-01-06 18:48:10 +0000",
+      "salmon": "2024-01-08 20:41:12 +0000",
       "cooked_beef": "2024-01-05 15:39:53 +0000",
       "baked_potato": "2024-01-05 15:18:37 +0000",
       "cooked_salmon": "2024-01-06 16:40:03 +0000",
@@ -2711,39 +2712,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2024-01-08 19:53:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2024-01-08 19:54:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2024-01-08 19:26:38 +0000"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
-      "elytra": "2024-01-08 19:53:50 +0000"
+      "has_purpur_block": "2024-01-08 19:53:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2024-01-08 19:53:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-01-08 19:53:46 +0000"
     },
     "done": true
   },
@@ -2759,12 +2742,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-01-08 19:55:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2024-01-08 19:53:35 +0000"
@@ -2774,6 +2751,78 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-01-08 19:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-01-08 19:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-01-08 19:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-01-08 19:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-01-08 19:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-01-08 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-01-08 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-01-08 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-01-08 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-01-08 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-01-08 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-01-08 20:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-01-08 20:54:01 +0000"
     },
     "done": true
   },
