@@ -1470,5 +1470,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2024-01-19 16:41:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3802
 }
